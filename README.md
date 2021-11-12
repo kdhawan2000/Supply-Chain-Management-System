@@ -9,6 +9,14 @@ Faculties should be able to order the suggested items. If the needed components 
 In addition to the financial benefits for the university, there are environmental benefits to reusing furniture: reuse prevents perfectly functional goods from ending up in the landfill, while conserving resources and materials required to manufacture brand new furniture. 
 Ultimately, achieving this goal will help the environment while saving money, time and energy!
 
+How it works:
+
+
+https://user-images.githubusercontent.com/77895143/141569068-be48f9d4-c0ec-4f5c-a4fc-a60b8819507d.mp4
+
+
+
+
 In conlusions, our application does the following:
 
 1.Takes in user input for 
