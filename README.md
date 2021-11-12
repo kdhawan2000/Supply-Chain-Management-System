@@ -15,6 +15,12 @@ How it works:
 https://user-images.githubusercontent.com/77895143/141569068-be48f9d4-c0ec-4f5c-a4fc-a60b8819507d.mp4
 
 
+How it is made possible:
+
+
+https://user-images.githubusercontent.com/77895143/141576909-213589f9-568e-4e35-9c50-38decf089845.mp4
+
+
 
 
 In conlusions, our application does the following:
@@ -33,3 +39,7 @@ a) a furniture category, b) its type, and c) the number of items requested.
 4.When an order form is produced, the database should also be updated to specify that the selected items are no longer available in inventory.
 
 5.If a request cannot be filled, the names of suggested manufacturers will be included in the output message. All possible manufacturers are included in each furniture table. Note that some of the manufacturers do not sell all furniture items
+
+
+
+Note: The following project contains 3 jar files, inventory.sql which were supplied by Hack Your Learning/ Department of Electrical and Software Engineering, University of Calgary for this project in the course ENSF 409.
