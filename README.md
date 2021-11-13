@@ -38,7 +38,7 @@ a) a furniture category, b) its type, and c) the number of items requested.
 
 5.If a request cannot be filled, the names of suggested manufacturers will be included in the output message. All possible manufacturers are included in each furniture table. Note that some of the manufacturers do not sell all furniture items
 
-
+This project was completed by Kunal Dhawan, Arindam Mishra, Kaitlyn Culligan in Winter 2021.
 
 Note: The following project contains 3 jar files, inventory.sql which were supplied by Hack Your Learning/ Department of Electrical and Software Engineering, University of Calgary for this project in the course ENSF 409.
 
