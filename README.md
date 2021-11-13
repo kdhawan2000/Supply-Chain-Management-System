@@ -1,6 +1,4 @@
 # Supply-Chain-Management-System
-This Java application calculates the cheapest combination of reusable inventory items that can be used to manufacture a specific order requested by user. It utilizes a MySQL database (inventory) provided by Hack Your Learning to extract data pertaining to the availability of reusable parts.
-
 
 In this project we design an application to calculate the cheapest combination of available inventory items that can be used to fill a specific order. 
 For example, if in a university, a faculty needs one executive chair, the application should be able to calculate the most cost-effective way of assembling the chair from other used furniture items. 
@@ -43,3 +41,6 @@ a) a furniture category, b) its type, and c) the number of items requested.
 
 
 Note: The following project contains 3 jar files, inventory.sql which were supplied by Hack Your Learning/ Department of Electrical and Software Engineering, University of Calgary for this project in the course ENSF 409.
+
+
+TLDR: This Java application calculates the cheapest combination of reusable inventory items that can be used to manufacture a specific order requested by user. It utilizes a MySQL database (inventory) provided by Hack Your Learning to extract data pertaining to the availability of reusable parts.
